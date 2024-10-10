@@ -6,7 +6,7 @@
 - 🖥️ I'm passionate about **Reverse Engineering**, **Cybersecurity**, **Web Scraping** and some other crazy things.
 - 🎮 Professional game glitch hunter 😅
 - 🙊 **Most of my projects are hidden, either due to their relation to reverse engineering or for monetary reason** 🙊
-- 🙊 **Some of them, involves web scraping websites looking for Buy/Sell oportunities (Retail Arbitrage)** 🙊
+- 🙊 **Some of them, involves web scraping websites looking for Buy/Sell opportunities (Retail Arbitrage)** 🙊
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
