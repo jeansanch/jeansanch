@@ -5,7 +5,9 @@
 - 🌎 I speak 🇧🇷 **Portuguese** and 🇺🇸 **English**!
 - 🖥️ I'm passionate about **Reverse Engineering**, **Cybersecurity**, **Web Scraping** and some other crazy things.
 - 🎮 Professional game glitch hunter 😅
-
+- 🙊 **Most of my projects are hidden, either due to their relation to reverse engineering or for monetary reason** 🙊
+- 🙊 **Some of them, involves web scraping websites looking for Buy/Sell oportunities (Retail Arbitrage)** 🙊
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jean-sanch-f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-sanch-f" height="30" width="40" /></a>
